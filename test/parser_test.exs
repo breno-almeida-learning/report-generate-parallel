@@ -5,7 +5,7 @@ defmodule GenReport.ParserTest do
 
   describe "parse_file/1" do
     test "parses the file" do
-      file_name = "gen_report.csv"
+      file_name = "part_1.csv"
 
       response =
         file_name

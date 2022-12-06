@@ -1,0 +1,21 @@
+{
+  "excluded": [
+    {
+      "describe": "build/1",
+      "file": "c:/Users/Breno/projects/report-generate-parallel/test/gen_report_test.exs",
+      "line": 17
+    }
+  ],
+  "failed": [],
+  "invalid": [],
+  "passed": [
+    {
+      "describe": "build/1",
+      "file": "c:/Users/Breno/projects/report-generate-parallel/test/gen_report_test.exs",
+      "line": 11,
+      "module": "Elixir.GenReportTest",
+      "test": "test build/1 When passing file names return a report"
+    }
+  ],
+  "skiped": []
+}
